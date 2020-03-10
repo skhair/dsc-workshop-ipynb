@@ -1,4 +1,5 @@
-## DSC Workshop on Literate Programming Tools: RMarkdown and Jupyter
+## DSC Workshop on Literate Programming Tools:  
+### RMarkdown and Jupyter
 
 Workshop files for sharing a Jupyter Notebook via GitHub to MyBinder.
 
