@@ -9,6 +9,6 @@ jobs:
         with:
           DATAVERSE_TOKEN: ${{secrets.DATAVERSE_TOKEN}}
           DATAVERSE_SERVER: https://demo.borealisdata.ca
-          DATAVERSE_DATASET_DOI: doi:10.80240/FK2/RTRAFK
+          DATAVERSE_DATASET_DOI: doi:10.80240/FK2/IPR5XR
           GITHUB_DIR: cars_project
           DELETE: False
